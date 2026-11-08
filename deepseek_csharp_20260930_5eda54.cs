@@ -8,7 +8,7 @@ class Program
         int C = 3, D = 7;
 
         PrintIntersection(A, B, C, D);
-    }
+    
 
     static void PrintIntersection(int A, int B, int C, int D)
     {
